@@ -1,0 +1,7 @@
+
+name: "hello \t world"
+test: 'hello \n world test'
+##ConfigrationProperties配置测试
+#person:
+#  name: hello1
+#  age: 18
